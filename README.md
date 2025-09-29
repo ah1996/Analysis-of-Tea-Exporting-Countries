@@ -52,7 +52,7 @@ Filter out those rows.
 (You can use Group By → Statistics → Percentile to get quartiles or write a custom M function).
 
 ## 🔹  Data Modeling 
- we use Data modeling in this project  to organize tables  tables into Fact & Dimension structure, creating relationships, and using DAX for calculations. This ensures your dashboards are fast, accurate, and scalable.
+ we use Data modeling in this project  to organize   tables into Fact & Dimension structure, creating relationships, and using DAX for calculations. This ensures your dashboards are fast, accurate, and scalable.
 ## 🔑 Key Insights
 - **Exporters:** 206 countries participated in tea exports.  
 - **Total Exported Value:** $78 billion in total exports.  
