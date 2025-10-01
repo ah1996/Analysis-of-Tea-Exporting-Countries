@@ -1,7 +1,7 @@
 # 📊 Analysis of Tea Exporting Countries
 
 ## Overview
-his project presents an interactive dashboard analyzing the performance of tea-exporting countries worldwide. The analysis leverages key performance indicators (KPIs), trend analysis, and comparative insights to highlight global tea export dynamics between 2014 and 2023.
+this project presents an interactive dashboard analyzing the performance of tea-exporting countries worldwide. The analysis leverages key performance indicators (KPIs), trend analysis, and comparative insights to highlight global tea export dynamics between 2014 and 2023.
 
 ## 🧹  Data Cleaning 
  load data in Power BI:
